@@ -1,0 +1,14 @@
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.exe.config
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.exe
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.pdb
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.csprojResolveAssemblyReference.cache
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.csproj.CoreCompileInputs.cache
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.exe
+C:\Users\Woody\Documents\Visual Studio 2017\Projects\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.pdb
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.exe.config
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.exe
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\bin\Debug\Patterns_Facade.pdb
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.csprojResolveAssemblyReference.cache
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.csproj.CoreCompileInputs.cache
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.exe
+C:\Users\Woody\Desktop\Study\Patterns_Facade\Patterns_Facade\obj\Debug\Patterns_Facade.pdb
